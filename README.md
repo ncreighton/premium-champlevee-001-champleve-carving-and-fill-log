@@ -1,0 +1,2 @@
+# premium-champlevee-001-champleve-carving-and-fill-log
+Tired of losing track of which enamel layer goes where or forgetting the exact carving depth on a piece you started weeks ago? Your champlevé process deserves the same precision as your art.  This Notion template is the first dedicated log for champlevé carving and fill workflows. It replaces scattered notebooks with a structured system to record e
